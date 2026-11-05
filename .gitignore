@@ -1,0 +1,15 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ruff_cache/
+dist/
+*.egg-info/
+.vscode/
+.env
+config.json
+data/
+data_demo/
+logs/
+logs_demo/
+*.tmp
